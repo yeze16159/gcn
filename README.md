@@ -65,8 +65,8 @@ Please cite our paper if you use this code in your own work:
 ```
 @inproceedings{kipf2017semi,
   title={Semi-Supervised Classification with Graph Convolutional Networks},
-  author={Kipf, Thomas N. and Welling, Max},
+  author={Ze Ye,Kin Sum Liu,Tengfei Ma,Jie Gao, Chao Chen},
   booktitle={International Conference on Learning Representations (ICLR)},
-  year={2017}
+  year={2020}
 }
 ```
